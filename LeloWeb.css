@@ -1,0 +1,27 @@
+
+body{
+	background: url("/home/up4all/Desktop/sea-1.jpg");
+}
+
+img{
+
+
+	border-width:100px;
+	height:100px;
+	text-align:center;
+}
+
+h1{
+	color:#7eff00;
+	background-color:#0000ff;
+	text-align:center;
+}
+
+nav ul li{
+	text-decoration:none;
+	text-align:inline;
+}
+li {
+	text-align: inline;
+	text-decoration: none;
+}
